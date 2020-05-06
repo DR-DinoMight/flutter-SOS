@@ -1,0 +1,35 @@
+SOS:
+    ☐ Login - SMS
+    ☐ When button is pressed
+        ☐ (short) - bring up menu to ask who to send message too.
+        ☐ (long) - send message directly to VIP contacts.
+    ☐ Send notification
+        ☐ SMS
+        ☐ or in app notification
+    ☐ Track location only when button pressed
+    ☐ Allow a pre-defined message to be stored that gets sent on sending sos.
+        ☐ (optional) Have multiple message to choose from
+            ☐ In Danger
+            ☐ Broken Down
+            ☐ etc...
+    ☐ Allow contacts to be loaded up and stored as a VIP?
+    ☐ (optional) onboarding process.
+
+
+Notes:
+    05/05/2020:
+        https://flutterstudio.app/
+        https://coolors.co/e09f3e-32373b-4a5859-dd6e42-577590
+        https://www.materialpalette.com/
+        https://material.io/design/color/the-color-system.html#color-theme-creation
+        https://flutter.dev/docs/development/ui/layout
+
+        Layouts feel very much like flex box, Coloumns expand on the height (Y Axis)
+        and Rows ( X Axis).
+
+        Flutter - Widget Center Class
+        will be as big as possible (parent container aviable space).unless a width and height are specified
+
+        Main Axis - is dependent on the widget - if using rows its x Axis or column Y axis.
+
+        Timer - look at https://api.flutter.dev/flutter/dart-async/Timer/Timer.periodic.html
